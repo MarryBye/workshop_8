@@ -10,7 +10,7 @@
 
 ## Виконана робота:
 
-![](https://github.com/MarryBye/workshop_7/blob/master/images/image.png?raw=true)  
+![](https://github.com/MarryBye/workshop_8/blob/master/images/image.png?raw=true)  
 
 Ліворуч - референс, праворуч - те, що було зроблено.
 Створена карточка магазу Фокстрот. У відповідності із завданням усі значки та інші речі були повністю збережені на результаті.
